@@ -32,19 +32,3 @@ By default the API server starts on port 3000, http://localhost:3000.
 ### Prerequisites
 
 * node >= v7.6.0
-
-## Contributing
-
-Feel free to submit pull request or suggestions [here](https://github.com/dbalas/koalerplate/issues/new)
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/dbalas/koalerplate/tags).
-
-## Authors
-
-* **Daniel Balastegui** - *Initial work* - [dbalas](https://github.com/dbalas)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
